@@ -38,7 +38,7 @@
 
 <br/>
 
-<a href="https://github.com/twisti">
+<a href="https://github.com/twistik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twistik&theme=buefy&layout=compact" />
 </a>
 
