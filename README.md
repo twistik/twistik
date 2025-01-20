@@ -27,11 +27,9 @@
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
   ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
-
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm&logoColor=007ACC)
-  
 - 🖥 &nbsp;
 - ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
