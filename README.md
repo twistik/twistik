@@ -38,7 +38,7 @@
 
 <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twistik&theme=buefy&layout=compact" />
+  <img height="180em" src="" />
 
 <br/>
 
